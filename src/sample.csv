@@ -1,0 +1,4 @@
+Release ID,Release Title,Track ID,Track Title,ISRC,Artist Name,Genre,Release Date,Label Name,UPC,Language,Explicit,Territories,Rights Holder,File URL,Royalty Artist %,Royalty Label %,Royalty Distributor %,Royalty Publisher %
+REL001,Album One,TRK001,Song Title 1,USABC1234567,Artist A,Pop,2023-01-15,Label X,123456789012,English,No,Worldwide,Rights Co,http://example.com/file1.mp3,70,20,5,5
+REL001,Album One,TRK002,Song Title 2,USABC1234568,Artist A,Pop,2023-01-15,Label X,123456789012,English,Yes,Worldwide,Rights Co,http://example.com/file2.mp3,70,20,5,5
+REL002,Album Two,TRK003,Song Title 3,USABC1234569,Artist B,Rock,2023-02-20,Label Y,987654321098,Spanish,No,US;EU,Rights Co,http://example.com/file3.mp3,60,25,10,5 

@@ -1,0 +1,6 @@
+Release ID,Release Title,Track ID,Track Title,ISRC,Artist Name,Genre,Release Date,Label Name,UPC,Language,Explicit,Territories,Rights Holder,File URL,Royalty Artist %,Royalty Label %,Royalty Distributor %,Royalty Publisher %
+RLS001,Midnight Drive,TRK001,Starry Night,USABC2300001,Luna Ray,Chillwave,2024-08-01,Moonlit Records,123456789012,en,No,WW,Moonlit Records Ltd.,https://example.com/files/starry_night.wav,50%,30%,15%,5%
+RLS002,Invalid Royalties,TRK002,Invalid Sum,USABC2300002,Test Artist,Pop,2024-09-15,Test Label,123456789013,en,No,WW,Test Label Ltd.,https://example.com/files/invalid.wav,40%,30%,10%,10%
+RLS003,Invalid Date,TRK003,Bad Date Format,USABC2300003,Date Tester,Rock,15/10/2024,Date Records,123456789014,en,No,WW,Date Records Ltd.,https://example.com/files/dates.wav,50%,25%,15%,10%
+RLS004,Both Invalid,TRK004,Multiple Errors,USABC2300004,Error Test,Jazz,01-01-24,Error Records,123456789015,en,No,WW,Error Records Ltd.,https://example.com/files/error.wav,30%,20%,10%,20%
+RLS005,Negative Royalty,TRK005,Negative Value,USABC2300005,Negative Test,EDM,2024-12-01,Negative Records,123456789016,en,No,WW,Negative Records Ltd.,https://example.com/files/negative.wav,80%,40%,-30%,10% 

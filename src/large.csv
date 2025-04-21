@@ -1,0 +1,106 @@
+Release ID,Release Title,Track ID,Track Title,ISRC,Artist Name,Genre,Release Date,Label Name,UPC,Language,Explicit,Territories,Rights Holder,File URL,Royalty Artist %,Royalty Label %,Royalty Distributor %,Royalty Publisher %
+RLS001,Midnight Drive,TRK001,Starry Night,USABC2300001,Luna Ray,Chillwave,2024-08-01,Moonlit Records,123456789012,en,No,WW,Moonlit Records Ltd.,https://fuga.io/files/starry_night.wav,50%,30%,15%,5%
+RLS001,Midnight Drive,TRK002,Neon Skyline,USABC2300002,Luna Ray,Chillwave,2024-08-01,Moonlit Records,123456789012,en,No,WW,Moonlit Records Ltd.,https://fuga.io/files/neon_skyline.wav,50%,30%,15%,5%
+RLS002,Electric Pulse,TRK003,Voltage,USABC2300003,Max Voltage,EDM,2024-09-15,Pulse Nation,987654321098,en,Yes,"WW ex. CN, RU",Pulse Nation Inc.,https://fuga.io/files/voltage.wav,40%,40%,15%,5%
+RLS003,Sunset Drive,TRK004,Golden Hour,USABC2300004,Amber Dawn,Indie Pop,2024-10-01,Amber Sounds,321654987012,en,No,WW,Amber Sounds,https://fuga.io/files/golden_hour.wav,60%,25%,10%,5%
+RLS004,Dream Tides,TRK005,Waves in Blue,USABC2300005,Blue Tide,Ambient,2024-11-11,Tide Records,112233445566,en,No,WW,Tide Records,https://fuga.io/files/waves_in_blue.wav,55%,30%,10%,5%
+RLS006,His,TRK006,National know,USABC2300006,Paula Pitts,Ambient,2025-02-27,Moonlit Records,694177541110,en,Yes,EU only,Moonlit Records Ltd.,https://fuga.io/files/national_know.wav,48%,24%,5%,23%
+RLS007,Computer use,TRK007,Close,USABC2300007,Christopher Cruz,Jazz,2024-12-10,Tide Records,686411693792,en,Yes,"WW ex. CN, RU",Tide Records Ltd.,https://fuga.io/files/close.wav,51%,31%,7%,11%
+RLS008,Gun mission,TRK008,Writer show,USABC2300008,Susan Harvey,Indie Pop,2025-03-01,Skyline Studios,469000776502,en,No,EU only,Skyline Studios Ltd.,https://fuga.io/files/writer_show.wav,42%,23%,5%,30%
+RLS009,Option effort,TRK009,Draw,USABC2300009,Samantha Chang,Hip-Hop,2025-02-23,Pulse Nation,591497132572,en,No,"US, CA, UK",Pulse Nation Ltd.,https://fuga.io/files/draw.wav,51%,25%,17%,7%
+RLS010,Stand job,TRK010,Figure eat,USABC2300010,Teresa Smith,Jazz,2024-07-21,Skyline Studios,883115382999,en,Yes,WW,Skyline Studios Ltd.,https://fuga.io/files/figure_eat.wav,41%,38%,12%,9%
+RLS011,Summer I,TRK011,Serve,USABC2300011,Taylor Carpenter,Ambient,2024-11-09,Amber Sounds,774058682438,en,Yes,WW,Amber Sounds Ltd.,https://fuga.io/files/serve.wav,41%,25%,11%,23%
+RLS012,Change win,TRK012,Allow course,USABC2300012,Angela Romero MD,EDM,2024-08-08,Moonlit Records,726966284069,en,Yes,"US, CA, UK",Moonlit Records Ltd.,https://fuga.io/files/allow_course.wav,58%,23%,15%,4%
+RLS013,Relate,TRK013,Either really,USABC2300013,Robert Clark,R&B,2024-08-27,Pulse Nation,857656420562,en,No,"WW ex. CN, RU",Pulse Nation Ltd.,https://fuga.io/files/either_really.wav,44%,23%,16%,17%
+RLS014,Surface onto,TRK014,Prepare yourself,USABC2300014,Vanessa Rangel,R&B,2025-02-13,Pulse Nation,872539919312,en,No,"WW ex. CN, RU",Pulse Nation Ltd.,https://fuga.io/files/prepare_yourself.wav,47%,38%,9%,6%
+RLS015,Your,TRK015,Become everybody,USABC2300015,Zachary Flores,R&B,2024-06-12,Moonlit Records,907447113674,en,No,EU only,Moonlit Records Ltd.,https://fuga.io/files/become_everybody.wav,52%,23%,12%,13%
+RLS016,Political,TRK016,Lay deep,USABC2300016,Dr. Daisy Walker,Hip-Hop,2024-05-20,Skyline Studios,973687155082,en,No,WW,Skyline Studios Ltd.,https://fuga.io/files/lay_deep.wav,60%,30%,7%,3%
+RLS017,Shake simple,TRK017,Kind certain,USABC2300017,Kara Jones,R&B,2024-11-29,Skyline Studios,827126458788,en,Yes,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/kind_certain.wav,48%,28%,13%,11%
+RLS018,Dinner way,TRK018,Happy,USABC2300018,Timothy Stout,R&B,2024-09-29,Tide Records,222362175309,en,No,WW,Tide Records Ltd.,https://fuga.io/files/happy.wav,52%,38%,20%,-10%
+RLS019,Vote plan,TRK019,Own prepare,USABC2300019,Troy Morgan,Chillwave,2024-06-15,Pulse Nation,709150035188,en,No,"US, CA, UK",Pulse Nation Ltd.,https://fuga.io/files/own_prepare.wav,49%,35%,13%,3%
+RLS020,Candidate,TRK020,Democrat,USABC2300020,Tammy Long,R&B,2024-05-04,Skyline Studios,611140891299,en,No,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/democrat.wav,42%,28%,16%,14%
+RLS021,Give white,TRK021,Tonight too,USABC2300021,Don Short,Hip-Hop,2024-07-23,Pulse Nation,350829457933,en,Yes,"WW ex. CN, RU",Pulse Nation Ltd.,https://fuga.io/files/tonight_too.wav,43%,26%,19%,12%
+RLS022,Politics,TRK022,Stuff decade,USABC2300022,Aaron Curtis,Indie Pop,2024-11-03,Amber Sounds,172636002864,en,No,"WW ex. CN, RU",Amber Sounds Ltd.,https://fuga.io/files/stuff_decade.wav,56%,27%,17%,0%
+RLS023,Someone,TRK023,Machine,USABC2300023,Robert Campbell,R&B,2025-03-11,Tide Records,551085253395,en,No,EU only,Tide Records Ltd.,https://fuga.io/files/machine.wav,56%,38%,16%,-10%
+RLS024,Lose,TRK024,Herself,USABC2300024,Jessica Black,Indie Pop,2024-06-04,Amber Sounds,997778750590,en,No,WW,Amber Sounds Ltd.,https://fuga.io/files/herself.wav,47%,29%,12%,12%
+RLS025,Or,TRK025,Support,USABC2300025,Kristen Contreras,Chillwave,2025-02-25,Pulse Nation,307450150171,en,Yes,"US, CA, UK",Pulse Nation Ltd.,https://fuga.io/files/support.wav,59%,20%,14%,7%
+RLS026,Candidate,TRK026,Summer,USABC2300026,Ryan Mcintyre,R&B,2024-09-29,Amber Sounds,781620122123,en,No,"US, CA, UK",Amber Sounds Ltd.,https://fuga.io/files/summer.wav,48%,26%,15%,11%
+RLS027,Surface great,TRK027,Professor,USABC2300027,Tara Anderson,EDM,2025-01-24,Moonlit Records,615388009899,en,No,EU only,Moonlit Records Ltd.,https://fuga.io/files/professor.wav,53%,29%,7%,11%
+RLS028,Tax dinner,TRK028,Set,USABC2300028,Dean Martinez,Synthwave,2024-07-22,Tide Records,942958790798,en,Yes,WW,Tide Records Ltd.,https://fuga.io/files/set.wav,57%,28%,17%,-2%
+RLS029,Senior,TRK029,Source theory,USABC2300029,Sara Walls,Indie Pop,2024-08-28,Tide Records,280809008778,en,No,"US, CA, UK",Tide Records Ltd.,https://fuga.io/files/source_theory.wav,44%,20%,15%,21%
+RLS030,Will of,TRK030,Go whole,USABC2300030,Robin Williams,Ambient,2024-08-30,Skyline Studios,457504966825,en,No,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/go_whole.wav,40%,22%,7%,31%
+RLS031,Dinner crime,TRK031,Somebody,USABC2300031,Jessica Fischer,Synthwave,2024-05-09,Amber Sounds,114383125295,en,Yes,"WW ex. CN, RU",Amber Sounds Ltd.,https://fuga.io/files/somebody.wav,55%,25%,14%,6%
+RLS032,College,TRK032,Police,USABC2300032,David Martin,EDM,2024-10-17,Pulse Nation,736097560729,en,Yes,EU only,Pulse Nation Ltd.,https://fuga.io/files/police.wav,47%,21%,5%,27%
+RLS033,Surface just,TRK033,Everything,USABC2300033,Joshua Cook,Ambient,2024-07-26,Moonlit Records,563094225020,en,No,"WW ex. CN, RU",Moonlit Records Ltd.,https://fuga.io/files/everything.wav,47%,21%,14%,18%
+RLS034,Too network,TRK034,Sense,USABC2300034,James Bender,Synthwave,2024-04-27,Skyline Studios,642942274159,en,Yes,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/sense.wav,42%,32%,10%,16%
+RLS035,Worry history,TRK035,Can past,USABC2300035,Sandra Williams,Synthwave,2024-09-20,Pulse Nation,815647912362,en,Yes,"US, CA, UK",Pulse Nation Ltd.,https://fuga.io/files/can_past.wav,59%,29%,9%,3%
+RLS036,Main,TRK036,Religious here,USABC2300036,Ryan Brown,Ambient,2024-06-18,Pulse Nation,890142831302,en,No,EU only,Pulse Nation Ltd.,https://fuga.io/files/religious_here.wav,57%,38%,20%,-15%
+RLS037,Talk article,TRK037,Claim,USABC2300037,Andrew Combs,Hip-Hop,2024-12-16,Tide Records,695440249351,en,Yes,EU only,Tide Records Ltd.,https://fuga.io/files/claim.wav,43%,24%,18%,15%
+RLS038,Sometimes,TRK038,Remain,USABC2300038,Matthew Rodriguez,Jazz,2024-11-07,Skyline Studios,714458463913,en,No,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/remain.wav,45%,39%,18%,-2%
+RLS039,Option,TRK039,Call force,USABC2300039,Benjamin Graham,Synthwave,2024-12-18,Moonlit Records,751750910788,en,No,"WW ex. CN, RU",Moonlit Records Ltd.,https://fuga.io/files/call_force.wav,50%,26%,15%,9%
+RLS040,Force defense,TRK040,Also,USABC2300040,Kimberly Mccormick,R&B,2024-12-25,Moonlit Records,147226488292,en,No,"WW ex. CN, RU",Moonlit Records Ltd.,https://fuga.io/files/also.wav,60%,22%,17%,1%
+RLS041,Win cup,TRK041,Act degree,USABC2300041,Jennifer Wilkinson,R&B,2024-04-28,Skyline Studios,913806423001,en,No,"WW ex. CN, RU",Skyline Studios Ltd.,https://fuga.io/files/act_degree.wav,56%,32%,17%,-5%
+RLS042,Send eat,TRK042,Technology,USABC2300042,Patricia Chandler,Jazz,2024-08-05,Pulse Nation,323330753913,en,Yes,WW,Pulse Nation Ltd.,https://fuga.io/files/technology.wav,43%,20%,20%,17%
+RLS043,Name rule,TRK043,Simply,USABC2300043,Marco Schultz,Ambient,2025-01-26,Skyline Studios,254344018625,en,No,EU only,Skyline Studios Ltd.,https://fuga.io/files/simply.wav,59%,26%,11%,4%
+RLS044,Letter,TRK044,Ability camera,USABC2300044,Bonnie Wilson,Hip-Hop,2024-11-03,Tide Records,517725297543,en,Yes,"US, CA, UK",Tide Records Ltd.,https://fuga.io/files/ability_camera.wav,46%,39%,6%,9%
+RLS045,Look,TRK045,Pm,USABC2300045,Diana Burton,EDM,2024-10-07,Amber Sounds,251523090104,en,No,WW,Amber Sounds Ltd.,https://fuga.io/files/pm.wav,55%,23%,18%,4%
+RLS046,Number,TRK046,Manage,USABC2300046,Stefanie Garcia,Hip-Hop,2024-05-19,Skyline Studios,568728318892,en,Yes,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/manage.wav,57%,38%,9%,-4%
+RLS047,Push,TRK047,Outside,USABC2300047,Lauren Shaffer,Ambient,2024-08-29,Tide Records,258076988785,en,No,"US, CA, UK",Tide Records Ltd.,https://fuga.io/files/outside.wav,60%,24%,7%,9%
+RLS048,Recognize,TRK048,Really,USABC2300048,Ms. Carolyn Hill,Jazz,2024-10-10,Skyline Studios,921376667970,en,No,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/really.wav,57%,33%,7%,3%
+RLS049,Detail than,TRK049,Still result,USABC2300049,Timothy Wilson,EDM,2024-12-31,Pulse Nation,354114557971,en,No,"US, CA, UK",Pulse Nation Ltd.,https://fuga.io/files/still_result.wav,53%,39%,11%,-3%
+RLS050,Attention space,TRK050,Each,USABC2300050,Justin Jensen,Ambient,2024-11-16,Moonlit Records,527067877767,en,Yes,EU only,Moonlit Records Ltd.,https://fuga.io/files/each.wav,55%,24%,17%,4%
+RLS051,Offer,TRK051,Away,USABC2300051,Monica Wilcox,Ambient,2024-06-19,Skyline Studios,355094430944,en,No,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/away.wav,47%,29%,18%,6%
+RLS052,Article,TRK052,Collection to,USABC2300052,Kristin White,Indie Pop,2024-09-05,Tide Records,925180395162,en,Yes,"WW ex. CN, RU",Tide Records Ltd.,https://fuga.io/files/collection_to.wav,42%,38%,14%,6%
+RLS053,Of,TRK053,Culture,USABC2300053,Cody Fuller,Chillwave,2024-05-01,Amber Sounds,207571580403,en,Yes,"WW ex. CN, RU",Amber Sounds Ltd.,https://fuga.io/files/culture.wav,56%,37%,12%,-5%
+RLS054,Production,TRK054,Manage see,USABC2300054,Susan Lopez,Indie Pop,2024-10-24,Moonlit Records,492970064571,en,No,WW,Moonlit Records Ltd.,https://fuga.io/files/manage_see.wav,59%,33%,5%,3%
+RLS055,Eye,TRK055,Of,USABC2300055,Antonio Woodard,Hip-Hop,2024-10-29,Skyline Studios,504030370044,en,No,EU only,Skyline Studios Ltd.,https://fuga.io/files/of.wav,50%,26%,10%,14%
+RLS056,Me,TRK056,Girl share,USABC2300056,Lindsey Mejia,EDM,2024-04-28,Tide Records,225921754743,en,Yes,"WW ex. CN, RU",Tide Records Ltd.,https://fuga.io/files/girl_share.wav,57%,22%,11%,10%
+RLS057,Structure animal,TRK057,Enter,USABC2300057,Michael Clark,Ambient,2024-10-20,Skyline Studios,670548090393,en,Yes,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/enter.wav,59%,36%,11%,-6%
+RLS058,Size,TRK058,Nice attack,USABC2300058,Mr. Eric Chen Jr.,Hip-Hop,2025-01-29,Pulse Nation,818273164406,en,No,EU only,Pulse Nation Ltd.,https://fuga.io/files/nice_attack.wav,58%,25%,16%,1%
+RLS059,Room wonder,TRK059,Fear any,USABC2300059,Kimberly Cole,Jazz,2024-08-11,Skyline Studios,829259322800,en,Yes,WW,Skyline Studios Ltd.,https://fuga.io/files/fear_any.wav,58%,20%,17%,5%
+RLS060,Call authority,TRK060,Today no,USABC2300060,Stefanie Campbell MD,Jazz,2024-06-28,Amber Sounds,696203736072,en,Yes,WW,Amber Sounds Ltd.,https://fuga.io/files/today_no.wav,56%,24%,13%,7%
+RLS061,Protect,TRK061,Commercial,USABC2300061,Jeffery Clayton,Chillwave,2025-02-21,Moonlit Records,321848623211,en,Yes,"WW ex. CN, RU",Moonlit Records Ltd.,https://fuga.io/files/commercial.wav,48%,38%,5%,9%
+RLS062,Writer produce,TRK062,Ask group,USABC2300062,Travis Miller,EDM,2024-04-09,Skyline Studios,507400301203,en,Yes,"WW ex. CN, RU",Skyline Studios Ltd.,https://fuga.io/files/ask_group.wav,58%,35%,17%,-10%
+RLS063,Run,TRK063,Ready,USABC2300063,Sarah Arnold,Ambient,2025-03-18,Skyline Studios,584064345941,en,No,WW,Skyline Studios Ltd.,https://fuga.io/files/ready.wav,45%,23%,19%,13%
+RLS064,Lot worker,TRK064,Have,USABC2300064,Don Harrison,Ambient,2024-07-14,Amber Sounds,266819903689,en,No,"WW ex. CN, RU",Amber Sounds Ltd.,https://fuga.io/files/have.wav,49%,22%,11%,18%
+RLS065,Whose quickly,TRK065,Up,USABC2300065,Lance Bennett,R&B,2024-06-04,Moonlit Records,529701597710,en,Yes,"US, CA, UK",Moonlit Records Ltd.,https://fuga.io/files/up.wav,58%,20%,17%,5%
+RLS066,Energy,TRK066,Someone culture,USABC2300066,Ernest Kirby,Indie Pop,2024-07-05,Amber Sounds,198735260182,en,Yes,WW,Amber Sounds Ltd.,https://fuga.io/files/someone_culture.wav,49%,30%,9%,12%
+RLS067,Particular its,TRK067,Anything,USABC2300067,Donald Galvan,R&B,2024-10-28,Tide Records,117902023893,en,Yes,EU only,Tide Records Ltd.,https://fuga.io/files/anything.wav,48%,27%,6%,19%
+RLS068,Ask turn,TRK068,Discover,USABC2300068,Megan Mcguire,Ambient,2024-06-16,Pulse Nation,600815603080,en,No,"US, CA, UK",Pulse Nation Ltd.,https://fuga.io/files/discover.wav,57%,34%,17%,-8%
+RLS069,Life capital,TRK069,Out,USABC2300069,Kenneth Parker,Hip-Hop,2025-01-15,Skyline Studios,463542694527,en,No,WW,Skyline Studios Ltd.,https://fuga.io/files/out.wav,48%,26%,5%,21%
+RLS070,Life democratic,TRK070,Boy evidence,USABC2300070,Rodney Montoya,Hip-Hop,2024-11-14,Tide Records,786771459598,en,No,"US, CA, UK",Tide Records Ltd.,https://fuga.io/files/boy_evidence.wav,40%,39%,6%,15%
+RLS071,Amount,TRK071,House finish,USABC2300071,Deanna Vazquez,Hip-Hop,2024-04-27,Tide Records,461573398204,en,No,WW,Tide Records Ltd.,https://fuga.io/files/house_finish.wav,40%,22%,7%,31%
+RLS072,Collection plant,TRK072,Professor by,USABC2300072,Brenda Hoover,Ambient,2024-10-01,Amber Sounds,471419898939,en,Yes,"US, CA, UK",Amber Sounds Ltd.,https://fuga.io/files/professor_by.wav,53%,23%,19%,5%
+RLS073,Protect,TRK073,Reflect relate,USABC2300073,Christine Whitehead,Hip-Hop,2025-02-11,Skyline Studios,758871979466,en,Yes,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/reflect_relate.wav,45%,35%,8%,12%
+RLS074,Cut,TRK074,Range,USABC2300074,Christine Lee,Ambient,2025-01-12,Pulse Nation,395957921966,en,No,WW,Pulse Nation Ltd.,https://fuga.io/files/range.wav,56%,22%,17%,5%
+RLS075,Tough,TRK075,International,USABC2300075,Kevin Suarez,Ambient,2024-09-05,Tide Records,631136240013,en,No,EU only,Tide Records Ltd.,https://fuga.io/files/international.wav,49%,32%,11%,8%
+RLS076,Responsibility design,TRK076,Morning anyone,USABC2300076,Daniel Cruz,Jazz,2024-09-03,Amber Sounds,956626546733,en,Yes,EU only,Amber Sounds Ltd.,https://fuga.io/files/morning_anyone.wav,57%,24%,10%,9%
+RLS077,Idea,TRK077,Garden,USABC2300077,Robert Carey,Jazz,2024-12-04,Amber Sounds,187888446295,en,Yes,"WW ex. CN, RU",Amber Sounds Ltd.,https://fuga.io/files/garden.wav,52%,21%,20%,7%
+RLS078,Only west,TRK078,Prepare,USABC2300078,Melissa Reyes,Synthwave,2024-11-14,Tide Records,879004603226,en,Yes,"US, CA, UK",Tide Records Ltd.,https://fuga.io/files/prepare.wav,54%,25%,18%,3%
+RLS079,To check,TRK079,Should,USABC2300079,Justin Sandoval,Chillwave,2024-07-13,Moonlit Records,489920297093,en,No,WW,Moonlit Records Ltd.,https://fuga.io/files/should.wav,59%,28%,8%,5%
+RLS080,Their Mr,TRK080,Sister,USABC2300080,Jessica Johnson,Chillwave,2024-11-03,Tide Records,532911416854,en,Yes,EU only,Tide Records Ltd.,https://fuga.io/files/sister.wav,50%,22%,8%,20%
+RLS081,Yes,TRK081,Appear wrong,USABC2300081,Rebecca Shaffer,Hip-Hop,2024-06-22,Pulse Nation,775025208297,en,Yes,WW,Pulse Nation Ltd.,https://fuga.io/files/appear_wrong.wav,43%,23%,16%,18%
+RLS082,Gas language,TRK082,Affect help,USABC2300082,Linda Gonzales,EDM,2024-12-27,Pulse Nation,884153609951,en,No,"US, CA, UK",Pulse Nation Ltd.,https://fuga.io/files/affect_help.wav,47%,38%,13%,2%
+RLS083,Arrive blue,TRK083,Affect itself,USABC2300083,Mr. Brett Simpson DVM,EDM,2024-09-25,Moonlit Records,391003333496,en,Yes,EU only,Moonlit Records Ltd.,https://fuga.io/files/affect_itself.wav,45%,37%,8%,10%
+RLS084,Look,TRK084,Life,USABC2300084,Emily Gates,Indie Pop,2024-10-26,Tide Records,401566524535,en,No,WW,Tide Records Ltd.,https://fuga.io/files/life.wav,56%,36%,8%,0%
+RLS085,Rich her,TRK085,Identify or,USABC2300085,Tammie Kirk,Ambient,2024-10-25,Amber Sounds,824445899484,en,Yes,"US, CA, UK",Amber Sounds Ltd.,https://fuga.io/files/identify_or.wav,50%,28%,16%,6%
+RLS086,Get,TRK086,Eat,USABC2300086,Ronald Davis,R&B,2024-08-27,Tide Records,944145287804,en,No,WW,Tide Records Ltd.,https://fuga.io/files/eat.wav,57%,37%,6%,0%
+RLS087,Daughter,TRK087,Table one,USABC2300087,John Lee,EDM,2024-12-17,Amber Sounds,469220342242,en,Yes,"WW ex. CN, RU",Amber Sounds Ltd.,https://fuga.io/files/table_one.wav,55%,31%,12%,2%
+RLS088,Ask chair,TRK088,Our collection,USABC2300088,Amber James,EDM,2024-05-10,Tide Records,562450300929,en,No,EU only,Tide Records Ltd.,https://fuga.io/files/our_collection.wav,53%,37%,9%,1%
+RLS089,Computer find,TRK089,Same article,USABC2300089,Melanie Perez,Indie Pop,2024-05-21,Pulse Nation,733946400448,en,Yes,EU only,Pulse Nation Ltd.,https://fuga.io/files/same_article.wav,45%,22%,18%,15%
+RLS090,Leader term,TRK090,Near apply,USABC2300090,Jordan Santos,R&B,2025-02-09,Amber Sounds,811924941414,en,No,EU only,Amber Sounds Ltd.,https://fuga.io/files/near_apply.wav,44%,38%,20%,-2%
+RLS091,Find not,TRK091,Require organization,USABC2300091,Cynthia Swanson,R&B,2024-07-06,Tide Records,463803670133,en,Yes,EU only,Tide Records Ltd.,https://fuga.io/files/require_organization.wav,50%,22%,10%,18%
+RLS092,Relationship,TRK092,Already,USABC2300092,Scott Sims,Ambient,2024-06-26,Pulse Nation,323794299147,en,No,WW,Pulse Nation Ltd.,https://fuga.io/files/already.wav,43%,38%,10%,9%
+RLS093,Knowledge every,TRK093,Study head,USABC2300093,Joshua Johnson,R&B,2024-08-29,Skyline Studios,190303928512,en,Yes,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/study_head.wav,42%,27%,12%,19%
+RLS094,Music couple,TRK094,Pull involve,USABC2300094,Adam Porter,Chillwave,2025-01-18,Skyline Studios,584421878717,en,Yes,"WW ex. CN, RU",Skyline Studios Ltd.,https://fuga.io/files/pull_involve.wav,51%,23%,18%,8%
+RLS095,Should cultural,TRK095,Majority,USABC2300095,Thomas Bray,R&B,2025-03-11,Skyline Studios,118264832175,en,No,WW,Skyline Studios Ltd.,https://fuga.io/files/majority.wav,43%,31%,14%,12%
+RLS096,Part,TRK096,Share free,USABC2300096,Tamara Velasquez,Ambient,2025-03-18,Amber Sounds,880186354516,en,Yes,WW,Amber Sounds Ltd.,https://fuga.io/files/share_free.wav,48%,37%,9%,6%
+RLS097,Affect ask,TRK097,Worker security,USABC2300097,Christopher Ryan,Synthwave,2025-03-19,Skyline Studios,689097592212,en,Yes,EU only,Skyline Studios Ltd.,https://fuga.io/files/worker_security.wav,58%,39%,6%,-3%
+RLS098,Brother,TRK098,Authority,USABC2300098,Donna Hansen,Synthwave,2024-12-27,Tide Records,860714938416,en,Yes,"WW ex. CN, RU",Tide Records Ltd.,https://fuga.io/files/authority.wav,41%,36%,9%,14%
+RLS099,This hotel,TRK099,Newspaper who,USABC2300099,Julie Wells,Indie Pop,2024-11-08,Moonlit Records,948889579633,en,No,"WW ex. CN, RU",Moonlit Records Ltd.,https://fuga.io/files/newspaper_who.wav,52%,39%,18%,-9%
+RLS100,Rock fine,TRK100,Size,USABC2300100,Brian Ellis,Chillwave,2024-11-16,Skyline Studios,642284032208,en,Yes,"WW ex. CN, RU",Skyline Studios Ltd.,https://fuga.io/files/size.wav,52%,31%,18%,-1%
+RLS101,Citizen,TRK101,Itself,USABC2300101,Kimberly Brown,Ambient,2024-07-23,Amber Sounds,351366368080,en,Yes,"US, CA, UK",Amber Sounds Ltd.,https://fuga.io/files/itself.wav,59%,24%,10%,7%
+RLS102,Who staff,TRK102,Best day,USABC2300102,Wendy Leblanc,Indie Pop,2025-02-20,Moonlit Records,500454961534,en,No,"US, CA, UK",Moonlit Records Ltd.,https://fuga.io/files/best_day.wav,57%,40%,13%,-10%
+RLS103,Friend scene,TRK103,Son,USABC2300103,Stephen Daniels,Ambient,2024-10-02,Skyline Studios,366842804619,en,Yes,"US, CA, UK",Skyline Studios Ltd.,https://fuga.io/files/son.wav,47%,35%,12%,6%
+RLS104,East site,TRK104,Both deal,USABC2300104,Tina Townsend,Synthwave,2024-08-23,Skyline Studios,134896409572,en,No,"WW ex. CN, RU",Skyline Studios Ltd.,https://fuga.io/files/both_deal.wav,53%,38%,17%,-8%
+RLS105,Reveal notice,TRK105,Person traditional,USABC2300105,Mr. Matthew Copeland,Jazz,2025-02-13,Tide Records,740316477197,en,Yes,WW,Tide Records Ltd.,https://fuga.io/files/person_traditional.wav,54%,31%,11%,4%

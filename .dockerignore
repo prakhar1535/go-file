@@ -1,0 +1,34 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Binaries
+bin/
+goroot/
+pkg/
+
+# Logs
+*.log
+
+# Local development
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Large files
+*.csv
+*.json
+!src/*.csv
+
+# OS specific
+.DS_Store
+Thumbs.db 

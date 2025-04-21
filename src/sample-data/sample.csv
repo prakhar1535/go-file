@@ -1,0 +1,6 @@
+Release ID,Release Title,Track ID,Track Title,ISRC,Artist Name,Genre,Release Date,Label Name,UPC,Language,Explicit,Territories,Rights Holder,File URL,Royalty Artist %,Royalty Label %,Royalty Distributor %,Royalty Publisher %
+RLS001,Midnight Drive,TRK001,Starry Night,USABC2300001,Luna Ray,Chillwave,2024-08-01,Moonlit Records,123456789012,en,No,WW,Moonlit Records Ltd.,https://example.com/files/starry_night.wav,50%,30%,15%,5%
+RLS001,Midnight Drive,TRK002,Neon Skyline,USABC2300002,Luna Ray,Chillwave,2024-08-01,Moonlit Records,123456789012,en,No,WW,Moonlit Records Ltd.,https://example.com/files/neon_skyline.wav,50%,30%,15%,5%
+RLS002,Electric Pulse,TRK003,Voltage,USABC2300003,Max Voltage,EDM,2024-09-15,Pulse Nation,987654321098,en,Yes,"WW ex. CN, RU",Pulse Nation Inc.,https://example.com/files/voltage.wav,40%,40%,15%,5%
+RLS003,Sunset Drive,TRK004,Golden Hour,USABC2300004,Amber Dawn,Indie Pop,2024-10-01,Amber Sounds,321654987012,en,No,WW,Amber Sounds,https://example.com/files/golden_hour.wav,60%,25%,10%,5%
+RLS004,Dream Tides,TRK005,Waves in Blue,USABC2300005,Blue Tide,Ambient,2024-11-11,Tide Records,112233445566,en,No,WW,Tide Records,https://example.com/files/waves_in_blue.wav,55%,30%,10%,5% 
